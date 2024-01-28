@@ -4,7 +4,7 @@ This software is a console app written in Kotlin that allows the user to record 
 
 My purpose is to develop an understanding of the basic syntax and workings of Kotlin through creating a console program.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/85a5f853fc4e4c988744db06b09f9997?sid=78c0d6f3-2c12-4110-ae6e-33d383290aaf)
 
 # Development Environment
 
